@@ -3,4 +3,4 @@
 /news              /blog
 /shameem            https://shameem.in
 /admin/*			    200!	Role=admin
-/admin/*	/admin	401!
+
