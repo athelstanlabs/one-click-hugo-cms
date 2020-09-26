@@ -1,0 +1,6 @@
+/home              /
+/blog/my-post.php  /blog/my-post
+/news              /blog
+/shameem            https://shameem.in
+/admin/*			    200!	Role=admin
+/admin/*	/admin	401!
